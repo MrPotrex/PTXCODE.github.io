@@ -6,7 +6,6 @@ body {
 
 p {
     font-size: 20px;
-    text-decoration: none;
 }
 
 .cartabon {
@@ -21,4 +20,8 @@ p {
     height: 250px;
     margin-bottom: -2%;
     margin-top: -0.5%;
+}
+
+a {
+    text-decoration: none;
 }
